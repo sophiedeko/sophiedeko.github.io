@@ -1,6 +1,6 @@
 ---
 layout: default
-title: sophie's blog
+title: Sophie's blog
 regenerate: true
 ---
 
