@@ -6,9 +6,9 @@ regenerate: true
 
 # {{page.title}}
 
-Welcome to my blog!
+{{ site.description }}
 
-{% for post in site.post %}
+{% for post in site.posts %}
 ## <a href="{{ post.url }}">{{ post.title }}</a>
 
 {{ post.excerpt }}
