@@ -16,7 +16,7 @@ This is me with the (finally) cut-out pieces. The material I used for the robe w
 ![Only a beginning v.2](/assets/IMG_7627.JPG)
 Basically, I sewed the front and back pieces. (I had fun turning myself into a fox to 
 hide my face.:) )
-![final result](/assets/IMG_7702.JPG)
+![final result](/assets/IMG_7701.JPG)
 And this was the final result. I used a chopstick as a wand (the wands where as expensive
  as the costumes). Unluckily, it rained that time so we were all sopping wet when we came 
  back from trick-or-treating. :(
