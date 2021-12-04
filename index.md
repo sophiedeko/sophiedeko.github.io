@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sophie's blog
+title: Tomate Rouge
 regenerate: true
 ---
 
