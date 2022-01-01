@@ -22,7 +22,7 @@ title: Tomate Rouge
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! My name is Sophie and this is my blog. Scroll down and you will find alot of cool 
-  things (Eg: handmade costumes, cool reipes, etc.) Links in the description for recipes
+  things (Eg: handmade costumes, cool recipes, etc.) Links in the description for recipes
   and handmade stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sophiedeko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
