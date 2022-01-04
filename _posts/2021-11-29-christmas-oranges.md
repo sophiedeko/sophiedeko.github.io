@@ -9,7 +9,7 @@ Christmas present.
 
 First, I used a tool  called a zester. A zester is a tool that allows you to make
 different shapes on your orange. Basically, you use the little notch to carve your shape 
-into the orange. It then makes it easier to put the cloves in. you don't really need it, 
+into the orange. It then makes it easier to put the cloves in. You don't really need it, 
 it only makes it easier to put the cloves in, as I said earlier.
 ![Zester](/assets/IMG_7782.JPG)
 ![orangez](/assets/IMG_7781.JPG)

@@ -25,7 +25,7 @@ For this recipe,you will need:
 
 -A clove of garlic
 
-Vinaigrette
+Vinaigrette:
 
 -A tsp. of olive oil
 
@@ -35,7 +35,7 @@ Vinaigrette
 
 -A large pinch of salt
 
--pepper
+-Pepper
 
 -A pinch of oregano
 
@@ -49,6 +49,8 @@ Once they are cut, mix them in a bowl. Then add the chickpeas.
 
 Cut the feta and add it to the bowl as well:
 ![lsd4](/assets/IMG_4523.JPG)
+
+Add the garlic in the bowl.
 
 Now for the vinaigrette:
 ![lsd5](/assets/IMG_4531.JPG)
