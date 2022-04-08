@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "My own handmade Hermione costume"
+title:  "My Own Handmade Hermione Costume"
 ---
 
 For Halloween this year, getting a Hermione costume would've been really expensive, so
