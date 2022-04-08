@@ -28,6 +28,14 @@ What you will need for this simple but time-consuming craft:
  
  ![Bears!](/assets/IMG_4644.JPG)
  
+ ![Foxes!](/assets/IMG_4646.JPG)
+  
+![Owls!](/assets/IMG_4650.JPG)
+
+Then, just lay out the pieces one on top of the other, like so, to see how it looks:
+
+
+ 
  
  
  
